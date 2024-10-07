@@ -1,4 +1,3 @@
-// mathutils.go
 package mathutils
 
 import "fmt"

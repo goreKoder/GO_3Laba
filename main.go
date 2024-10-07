@@ -1,9 +1,8 @@
-// main.go
 package main
 
 import (
 	"fmt"
-	"mathutils" // Импортируйте ваш пакет
+	// "GitHub/GO_3LABA/mathutils/factorial.go"
 )
 
 func main() {
@@ -24,4 +23,6 @@ func main() {
 	fmt.Printf("Факториал %d равен %d\n", n, result)
 }
 
-//			go run zad_1/main.go mathutils.go
+//			go run main.go zad_1/mathutils.go
+//			C:\Users\gleby\Documents\GitHub\GO_3LABA\mathutils\factorial.go
+//			go run main.go
