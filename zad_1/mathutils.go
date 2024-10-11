@@ -8,5 +8,3 @@ func Factorial(n int) int {
 	}
 	return result
 }
-
-//C:\Users\gleby\Documents\GitHub\GO_3LABA\mathutils\mathutils.go
